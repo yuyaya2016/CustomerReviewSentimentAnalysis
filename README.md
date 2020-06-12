@@ -1,4 +1,4 @@
-# California Senior Living Customer Reviews Sentiment Analysis and Topic Modeling
+# California Senior Living Review Natural Language Processing
 
 
 ### Project Overview
